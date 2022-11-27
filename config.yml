@@ -1,10 +1,10 @@
-baseURL: 'http://example.org/'
+#baseURL: 'http://example.org/'
 languageCode: 'en-us'
-title: 'My New Hugo Site'
+# title: 'My New Hugo Site'
 
 theme: 'PaperMod'
 
-baseURL: "https://examplesite.com/"
+baseURL: "/"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
