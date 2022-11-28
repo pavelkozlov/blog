@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>blog on Developer&#39;s blog</title>
-    <link>/categories/blog/</link>
+    <link>https://pavelkozlov.online/categories/blog/</link>
     <description>Recent content in blog on Developer&#39;s blog</description>
     <image>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://pavelkozlov.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pavelkozlov.online/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sun, 27 Nov 2022 14:43:18 +0300</lastBuildDate><atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Nov 2022 14:43:18 +0300</lastBuildDate><atom:link href="https://pavelkozlov.online/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog engine</title>
-      <link>/posts/my-first-post/</link>
+      <link>https://pavelkozlov.online/posts/my-first-post/</link>
       <pubDate>Sun, 27 Nov 2022 14:43:18 +0300</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
+      <guid>https://pavelkozlov.online/posts/my-first-post/</guid>
       <description>Hugo Статический генератор сайта это скрипт, который из различных файлов (картинок, Markdown разметки и т.п) генерирует статический HTML-сайт.
 Hugo — один из популярных генераторов статических сайтов с открытым исходным кодом, написан на языке Go.
 Офицальный сайт Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
