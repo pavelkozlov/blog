@@ -4,7 +4,7 @@ languageCode: 'ru-ru'
 
 theme: 'PaperMod'
 
-baseURL: "/"
+baseURL: ""
 title: Developer's blog
 paginate: 15
 theme: PaperMod
