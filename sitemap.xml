@@ -25,5 +25,8 @@
   </url><url>
     <loc>https://pavelkozlov.online/tags/</loc>
     <lastmod>2022-11-27T14:43:18+03:00</lastmod>
+  </url><url>
+    <loc>https://pavelkozlov.online/projects/</loc>
+    <priority>0</priority>
   </url>
 </urlset>
