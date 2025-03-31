@@ -1,0 +1,52 @@
+baseURL: "https://example.org/"
+languageCode: "en-us"
+title: "My Dev Notes"
+theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: "👋 Привет!"
+    Content: "Я пишу заметки о разработке, Go, и просто делюсь мыслями."
+  
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/yourusername"
+    - name: "telegram"
+      url: "https://t.me/yourusername"
+
+  defaultTheme: auto  # light, dark, auto
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowWordCount: true
+  ShowToc: true
+  TocOpen: false
+
+taxonomies:
+  category: categories
+  tag: tags
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 2
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 3
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 4
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 5
