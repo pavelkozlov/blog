@@ -28,6 +28,10 @@ taxonomies:
   category: categories
   tag: tags
 
+caches:
+  images:
+    dir: :cacheDir/images
+    
 menu:
   main:
     - identifier: home
