@@ -1,6 +1,6 @@
 baseURL: "https://blog.aboutgo.work/"
-languageCode: "en-us"
-title: "My Dev Notes"
+languageCode: "ru-ru"
+title: "About Go"
 theme: ["PaperMod"]
 
 params:
@@ -10,11 +10,11 @@ params:
   
   socialIcons:
     - name: "github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/pavelkozlov"
     - name: "telegram"
-      url: "https://t.me/yourusername"
+      url: "https://t.me/@pav_kozlov"
 
-  defaultTheme: auto  # light, dark, auto
+  defaultTheme: dark  # light, dark, auto
   ShowReadingTime: true
   ShowShareButtons: false
   ShowCodeCopyButtons: true
